@@ -12,6 +12,9 @@ for a SELECT statement which return data from a single column.
 This file has the code which I demosntrated in PL/SQL Video Tuorial 69 on my YouTube channel.
 
 
+
+
+------------------------------------------
 Do make sure to Subscribe to our YouTube channel for more intresting videos
 www.YouTube.com/RebellionRider
 
@@ -22,3 +25,5 @@ www.Twitter.com/RebellionRider
 www.fb.me/TheRebellionRider
 
 www.instagram.com/RebellionRider
+
+---------------------EOF---------------------
