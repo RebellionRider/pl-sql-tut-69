@@ -16,6 +16,7 @@ This file has the code which I demosntrated in PL/SQL Video Tuorial 69 on my You
 
 ------------------------------------------
 Do make sure to Subscribe to our YouTube channel for more intresting videos
+
 www.YouTube.com/RebellionRider
 
 You can also follow me on my social media. Here are the links
