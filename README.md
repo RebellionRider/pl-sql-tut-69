@@ -16,6 +16,9 @@ Do make sure to Subscribe to our YouTube channel for more intresting videos
 www.YouTube.com/RebellionRider
 
 also do make sure to follow me on my social media 
+
 Twitter.com/RebellionRider
+
 www.fb.me/TheRebellionRider
+
 www.instagram.com/RebellionRider
