@@ -1,4 +1,7 @@
-REM Prac Sheet 1 Ref Cursor
+/*
+Strong Ref Cursor with Table based record datatype can not retrive data from single column. 
+It will give you an error 
+*/
 SET SERVEROUTPUT ON
 DECLARE
     rec_var     employees%ROWTYPE;
