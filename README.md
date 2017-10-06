@@ -1,6 +1,6 @@
 # pl-sql-tut-69
 Learn how to create strong ref cursor using user defined record datatype variable in oracle database
-This repository consist scrips from PL/SQL tutorial 69.
+This repository consist scripts from PL/SQL tutorial 69.
 
 ● File "Strong Ref Cursor with table based record [Error].sql"
 
